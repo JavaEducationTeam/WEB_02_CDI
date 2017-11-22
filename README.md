@@ -9,11 +9,11 @@ A tároló tartalma önnállóan nem használható! Használd még legalább a B
 ## Maven
 &lt;dependency>
 
-            &lt;groupId>javax.enterprise&lt;/groupId>
+            <groupId>javax.enterprise&lt;/groupId>
             
-            &lt;artifactId>cdi-api&lt;/artifactId>
+            <artifactId>cdi-api&lt;/artifactId>
             
-            &lt;version>2.0&lt;/version>
+            <version>2.0&lt;/version>
             
 &lt;/dependency>
 
