@@ -16,7 +16,10 @@ A tároló tartalma önnállóan nem használható! Használd még legalább a B
 
 ## Osztály referencia
 [RequestScoped](https://docs.oracle.com/javaee/7/api/javax/enterprise/context/RequestScoped.html)
+
 [SessionScoped](https://docs.oracle.com/javaee/7/api/javax/enterprise/context/SessionScoped.html)
+
 [AppalicationScoped](https://docs.oracle.com/javaee/7/api/javax/enterprise/context/c.html)
+
 [@Inject](https://docs.oracle.com/javaee/7/api/index.html?javax/enterprise/context/ApplicationScoped.html)
 
