@@ -4,7 +4,7 @@
 A tároló tartalma önnállóan nem használható! Használd még legalább a Basic_03-IO tárolót, alternatív szolgáltatás implementációklehetnek a Basic-04-Networking, Basic_05-JDBC tárolókban is.
 
 ## Hivatalos specifikáció
-[jcp.org/pdf](https://jcp.org/aboutJava/communityprocess/final/jsr365/index.html)
+[JSR-000365 Contexts and Dependency Injection for Java 2.0](https://jcp.org/aboutJava/communityprocess/final/jsr365/index.html)
 
 ## Maven
             <dependency>
