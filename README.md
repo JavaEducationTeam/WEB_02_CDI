@@ -27,3 +27,7 @@ A tároló tartalma önnállóan nem használható! Használd még legalább a B
 
 [@Inject](https://docs.oracle.com/javaee/7/api/index.html?javax/enterprise/context/ApplicationScoped.html)
 
+## Mintapélda
+[HeroServiceCDI](https://raw.githubusercontent.com/JavaEducationTeam/WEB_02_CDI/master/heroesofempires/webapplication/src/main/java/hu/javagladiator/app/heroesofempires/webapplication/HeroServiceCDI.java)  Automatikusan "létrejövő" példány. Csak az annotáció miatt szükséges.
+
+[HeroServlet](https://raw.githubusercontent.com/JavaEducationTeam/WEB_02_CDI/master/heroesofempires/webapplication/src/main/java/hu/javagladiator/app/heroesofempires/webapplication/HeroServlet.java) Példány felhasználás.
