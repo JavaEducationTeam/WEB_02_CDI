@@ -7,11 +7,11 @@ A tároló tartalma önnállóan nem használható! Használd még legalább a B
 [jcp.org/pdf](https://jcp.org/aboutJava/communityprocess/final/jsr365/index.html)
 
 ## Maven
-<dependency>
-            <groupId>javax.enterprise</groupId>
-            <artifactId>cdi-api</artifactId>
-            <version>2.0</version>
-</dependency>
+&lt;dependency>
+            &lt;groupId>javax.enterprise&lt;/groupId>
+            &lt;artifactId>cdi-api&lt;/artifactId>
+            &lt;version>2.0&lt;/version>
+&lt;/dependency>
 
 
 ## Osztály referencia
